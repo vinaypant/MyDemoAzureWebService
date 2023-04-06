@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MyOrg-webapp-git'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2BDB5AFAA3C84BB68BE3F56EFAA85704 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82222575C1D34C2CBEA1323015787888 }}
           package: .
